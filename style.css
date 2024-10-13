@@ -92,6 +92,27 @@ img {
     }
     
     header div {
-        font-size: 50px;
+        font-size: 20px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+    
+    h3 {
+        font-size: 18px;
+    }
+    
+    p {
+        font-size: 16px;
+    }
+    
+
+    img {
+        width: 100%;
+    }
+    
+    footer {
+        padding: 10px;
     }
 }
